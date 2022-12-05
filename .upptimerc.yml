@@ -110,15 +110,7 @@ sites:
 
 status-website:
   cname: uptime.botslovers.com
-  # baseUrl: /your-repo-name
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: BotsLovers_Uptime
   introMessage: Estado de los servicios de BotsLovers
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
