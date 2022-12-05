@@ -7,8 +7,6 @@ sites:
     url: https://fresnos.botslovers.com
   - name: rosaleda
     url: https://rosaleda.botslovers.com
-  - name: dd-test
-    url: https://dd-test.botslovers.com
   - name: intimina
     url: https://intimina.botslovers.com
   - name: ascancelas
@@ -64,7 +62,7 @@ sites:
   - name: alfares
     url: https://alfares.botslovers.com
   - name: spell
-    url: https://spell.botslovers.com
+    url: https://spell.botslovers.com/spell/spells
   - name: zapatoferoz
     url: https://zapatoferoz.botslovers.com
   - name: portalev
