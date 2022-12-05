@@ -1,26 +1,119 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Botslovers-SL # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: fresnos
+    url: https://fresnos.botslovers.com
+  - name: rosaleda
+    url: https://rosaleda.botslovers.com
+  - name: dd-test
+    url: https://dd-test.botslovers.com
+  - name: intimina
+    url: https://intimina.botslovers.com
+  - name: ascancelas
+    url: https://ascancelas.botslovers.com
+  - name: holea
+    url: https://holea.botslovers.com
+  - name: arajet
+    url: https://arajet.botslovers.com
+  - name: deluxe
+    url: https://deluxe.botslovers.com
+  - name: cashconverters
+    url: https://cashconverters.botslovers.com
+  - name: bkool
+    url: https://bkool.botslovers.com
+  - name: ibericomio
+    url: https://ibericomio.botslovers.com
+  - name: healthypoke
+    url: https://healthypoke.botslovers.com
+  - name: llongueras
+    url: https://llongueras.botslovers.com
+  - name: mercadonainterno
+    url: https://mercadonainterno.botslovers.com
+  - name: minisocl
+    url: https://minisocl.botslovers.com
+  - name: miniso
+    url: https://miniso.botslovers.com
+  - name: arthur
+    url: https://arthur.botslovers.com
+  - name: bestway
+    url: https://bestway.botslovers.com
+  - name: maccenter
+    url: https://maccenter.botslovers.com
+  - name: mercadona
+    url: https://mercadona.botslovers.com
+  - name: sulion
+    url: https://sulion.botslovers.com
+  - name: clientesprodesa
+    url: https://clientesprodesa.botslovers.com
+  - name: payfit
+    url: https://payfit.botslovers.com
+  - name: tiendaspikolin
+    url: https://tiendaspikolin.botslovers.com
+  - name: pikolin
+    url: https://pikolin.botslovers.com
+  - name: prodesa
+    url: https://prodesa.botslovers.com
+  - name: fitzgerald
+    url: https://fitzgerald.botslovers.com
+  - name: kuestiona
+    url: https://kuestiona.botslovers.com
+  - name: fanmallorca
+    url: https://fanmallorca.botslovers.com
+  - name: alfares
+    url: https://alfares.botslovers.com
+  - name: spell
+    url: https://spell.botslovers.com
+  - name: zapatoferoz
+    url: https://zapatoferoz.botslovers.com
+  - name: portalev
+    url: https://portalev.botslovers.com
+  - name: beds
+    url: https://beds.botslovers.com
+  - name: sandboxzapatoferoz
+    url: https://sandboxzapatoferoz.botslovers.com
+  - name: notifypikolin
+    url: https://notifypikolin.botslovers.com
+  - name: proveedorespikolin
+    url: https://proveedorespikolin.botslovers.com
+  - name: alcampo
+    url: https://alcampo.botslovers.com
+  - name: gestioneslatam
+    url: https://gestioneslatam.botslovers.com
+  - name: devmercadona
+    url: https://devmercadona.botslovers.com
+  - name: emprenemjunts
+    url: https://emprenemjunts.botslovers.com
+  - name: yuyocalm
+    url: https://yuyocalm.botslovers.com
+  - name: hrsolutions
+    url: https://hrsolutions.botslovers.com
+  - name: vondom
+    url: https://vondom.botslovers.com
+  - name: zirkularrak
+    url: https://zirkularrak.botslovers.com
+  - name: cazucar
+    url: https://cazucar.botslovers.com
+  - name: ravenezolana
+    url: https://ravenezolana.botslovers.com
+  - name: roca
+    url: https://roca.botslovers.com
+  - name: ticketdigital
+    url: https://ticketdigital.botslovers.com
+  - name: demolovi
+    url: https://demolovi.botslovers.com
+  - name: compas
+    url: https://compas.botslovers.com
+  - name: facebook-service
+    url: https://facebook-service.botslovers.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: uptime.botslovers.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: BotsLovers_Uptime
+  introMessage: Estado de los servicios de BotsLovers
   navbar:
     - title: Status
       href: /
