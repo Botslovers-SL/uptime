@@ -5,10 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: sandboxzapatoferoz
     url: https://sandboxzapatoferoz.botslovers.com
-  - name: embeddings
-    url: https://embeddings.botslovers.com
   - name: spell
-    url: https://spell.botslovers.com
+    url: https://spell.botslovers.com/spell/spells
   - name: cashconverters
     url: https://cashconverters.botslovers.com
   - name: adt
