@@ -68,7 +68,7 @@ sites:
   - name: notifypikolin
     url: https://notifypikolin.botslovers.com
   - name: facebook
-    url: https://facebook.botslovers.com-service
+    url: https://facebook-service.botslovers.com/
   - name: arthur
     url: https://arthur.botslovers.com
   - name: sulion
