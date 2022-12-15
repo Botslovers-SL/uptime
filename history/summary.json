@@ -29,8 +29,8 @@
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.36%",
     "time": 1054,
-    "timeDay": 437,
-    "timeWeek": 1222,
+    "timeDay": 659,
+    "timeWeek": 1280,
     "timeMonth": 1054,
     "timeYear": 1054,
     "dailyMinutesDown": {
@@ -586,19 +586,19 @@
     "url": "https://facebook-service.botslovers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/facebook-service.botslovers.com.ico",
     "slug": "facebook",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 454,
-    "timeDay": 409,
-    "timeWeek": 454,
-    "timeMonth": 454,
-    "timeYear": 454,
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 440,
+    "timeDay": 389,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2022-12-15": 9
+      "2022-12-15": 0
     }
   },
   {
