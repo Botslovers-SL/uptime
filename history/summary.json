@@ -642,19 +642,19 @@
     "url": "https://zirkularrak.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/zirkularrak.botslovers.com.ico",
     "slug": "zirkularrak",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1025,
-    "timeDay": 5516,
-    "timeWeek": 1833,
-    "timeMonth": 1025,
-    "timeYear": 1025,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1002,
+    "timeDay": 3854,
+    "timeWeek": 1688,
+    "timeMonth": 1002,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2022-12-20": 1
+      "2022-12-20": 13
     }
   },
   {
@@ -878,19 +878,19 @@
     "url": "https://roca.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/roca.botslovers.com.ico",
     "slug": "roca",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 522,
-    "timeDay": 508,
-    "timeWeek": 593,
-    "timeMonth": 522,
-    "timeYear": 522,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 523,
+    "timeDay": 522,
+    "timeWeek": 589,
+    "timeMonth": 523,
+    "timeYear": 523,
     "dailyMinutesDown": {
-      "2022-12-20": 0
+      "2022-12-20": 13
     }
   },
   {
