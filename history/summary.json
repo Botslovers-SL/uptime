@@ -31,7 +31,7 @@
     "time": 798,
     "timeDay": 520,
     "timeWeek": 522,
-    "timeMonth": 766,
+    "timeMonth": 787,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2023-01-05": 16,
@@ -751,18 +751,20 @@
     "url": "https://heytrade.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/heytrade.botslovers.com.ico",
     "slug": "heytrade",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 585,
-    "timeDay": 551,
-    "timeWeek": 567,
-    "timeMonth": 585,
-    "timeYear": 585,
-    "dailyMinutesDown": {}
+    "time": 577,
+    "timeDay": 439,
+    "timeWeek": 537,
+    "timeMonth": 577,
+    "timeYear": 577,
+    "dailyMinutesDown": {
+      "2023-01-10": 1
+    }
   },
   {
     "name": "hrsolutions",
@@ -787,36 +789,40 @@
     "url": "https://alcampo.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/alcampo.botslovers.com.ico",
     "slug": "alcampo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 541,
-    "timeDay": 567,
-    "timeWeek": 567,
-    "timeMonth": 565,
-    "timeYear": 541,
-    "dailyMinutesDown": {}
+    "time": 536,
+    "timeDay": 440,
+    "timeWeek": 536,
+    "timeMonth": 558,
+    "timeYear": 536,
+    "dailyMinutesDown": {
+      "2023-01-10": 0
+    }
   },
   {
     "name": "siemensgbs",
     "url": "https://siemensgbs.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/siemensgbs.botslovers.com.ico",
     "slug": "siemensgbs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 585,
-    "timeWeek": 569,
-    "timeMonth": 591,
-    "timeYear": 591,
-    "dailyMinutesDown": {}
+    "time": 583,
+    "timeDay": 460,
+    "timeWeek": 540,
+    "timeMonth": 583,
+    "timeYear": 583,
+    "dailyMinutesDown": {
+      "2023-01-10": 0
+    }
   },
   {
     "name": "maccenter",
@@ -931,18 +937,20 @@
     "url": "https://lasrozas.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/lasrozas.botslovers.com.ico",
     "slug": "lasrozas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 586,
-    "timeDay": 547,
-    "timeWeek": 566,
-    "timeMonth": 586,
-    "timeYear": 586,
-    "dailyMinutesDown": {}
+    "time": 578,
+    "timeDay": 430,
+    "timeWeek": 534,
+    "timeMonth": 578,
+    "timeYear": 578,
+    "dailyMinutesDown": {
+      "2023-01-10": 0
+    }
   },
   {
     "name": "clientesprodesa",
