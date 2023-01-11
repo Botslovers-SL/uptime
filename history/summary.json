@@ -752,18 +752,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/heytrade.botslovers.com.ico",
     "slug": "heytrade",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.86%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 571,
     "timeDay": 458,
     "timeWeek": 540,
     "timeMonth": 571,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2023-01-11": 0,
+      "2023-01-11": 46,
       "2023-01-10": 17
     }
   },
@@ -920,18 +920,20 @@
     "url": "https://zapatoferoz.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/zapatoferoz.botslovers.com.ico",
     "slug": "zapatoferoz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 414,
-    "timeWeek": 576,
-    "timeMonth": 554,
-    "timeYear": 530,
-    "dailyMinutesDown": {}
+    "time": 527,
+    "timeDay": 420,
+    "timeWeek": 557,
+    "timeMonth": 550,
+    "timeYear": 527,
+    "dailyMinutesDown": {
+      "2023-01-11": 0
+    }
   },
   {
     "name": "lasrozas",
