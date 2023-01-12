@@ -25,13 +25,13 @@
     "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.88%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.80%",
     "time": 860,
     "timeDay": 572,
-    "timeWeek": 887,
-    "timeMonth": 902,
+    "timeWeek": 929,
+    "timeMonth": 924,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2023-01-05": 16,
@@ -155,18 +155,20 @@
     "url": "https://holea.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/holea.botslovers.com.ico",
     "slug": "holea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 584,
-    "timeDay": 677,
-    "timeWeek": 604,
-    "timeMonth": 608,
-    "timeYear": 584,
-    "dailyMinutesDown": {}
+    "time": 581,
+    "timeDay": 564,
+    "timeWeek": 585,
+    "timeMonth": 603,
+    "timeYear": 581,
+    "dailyMinutesDown": {
+      "2023-01-12": 1
+    }
   },
   {
     "name": "tiendaspikolin",
@@ -192,19 +194,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bkool.botslovers.com.ico",
     "slug": "bkool",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 528,
     "timeDay": 483,
     "timeWeek": 533,
     "timeMonth": 551,
     "timeYear": 528,
-    "dailyMinutesDown": {
-      "2023-01-12": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bestway",
@@ -247,18 +247,20 @@
     "url": "https://proveedorespikolin.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/proveedorespikolin.botslovers.com.ico",
     "slug": "proveedorespikolin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 566,
-    "timeDay": 742,
-    "timeWeek": 597,
-    "timeMonth": 612,
-    "timeYear": 566,
-    "dailyMinutesDown": {}
+    "time": 564,
+    "timeDay": 611,
+    "timeWeek": 583,
+    "timeMonth": 608,
+    "timeYear": 564,
+    "dailyMinutesDown": {
+      "2023-01-12": 1
+    }
   },
   {
     "name": "vondom",
@@ -464,19 +466,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cazucar.botslovers.com.ico",
     "slug": "cazucar",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 561,
     "timeDay": 484,
     "timeWeek": 544,
     "timeMonth": 594,
     "timeYear": 561,
-    "dailyMinutesDown": {
-      "2023-01-12": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "vector",
@@ -613,12 +613,12 @@
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.80%",
     "time": 553,
     "timeDay": 713,
     "timeWeek": 577,
-    "timeMonth": 587,
+    "timeMonth": 592,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2022-12-12": 108
@@ -755,18 +755,19 @@
     "url": "https://heytrade.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/heytrade.botslovers.com.ico",
     "slug": "heytrade",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.60%",
-    "time": 573,
-    "timeDay": 675,
-    "timeWeek": 542,
-    "timeMonth": 578,
-    "timeYear": 573,
+    "time": 570,
+    "timeDay": 561,
+    "timeWeek": 534,
+    "timeMonth": 575,
+    "timeYear": 570,
     "dailyMinutesDown": {
+      "2023-01-12": 0,
       "2023-01-11": 163,
       "2023-01-10": 17
     }
@@ -966,18 +967,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/clientesprodesa.botslovers.com.ico",
     "slug": "clientesprodesa",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 544,
     "timeDay": 461,
     "timeWeek": 538,
     "timeMonth": 578,
     "timeYear": 544,
-    "dailyMinutesDown": {
-      "2023-01-12": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
