@@ -22,19 +22,19 @@
     "url": "https://spell.botslovers.com/spell/spells",
     "icon": "https://icons.duckduckgo.com/ip3/spell.botslovers.com.ico",
     "slug": "spell",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.75%",
-    "time": 815,
-    "timeDay": 466,
-    "timeWeek": 589,
-    "timeMonth": 653,
-    "timeYear": 815,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.73%",
+    "time": 812,
+    "timeDay": 441,
+    "timeWeek": 579,
+    "timeMonth": 649,
+    "timeYear": 812,
     "dailyMinutesDown": {
-      "2023-01-18": 0,
+      "2023-01-18": 9,
       "2023-01-17": 19,
       "2023-01-12": 32,
       "2023-01-05": 16,
@@ -581,19 +581,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/notifypikolin.botslovers.com.ico",
     "slug": "notifypikolin",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 564,
     "timeDay": 678,
     "timeWeek": 614,
     "timeMonth": 595,
     "timeYear": 564,
-    "dailyMinutesDown": {
-      "2023-01-18": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "facebook",
@@ -619,18 +617,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/arthur.botslovers.com.ico",
     "slug": "arthur",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.81%",
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.83%",
     "time": 561,
     "timeDay": 675,
     "timeWeek": 618,
     "timeMonth": 594,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2023-01-18": 11,
       "2022-12-12": 108
     }
   },
@@ -640,19 +637,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sulion.botslovers.com.ico",
     "slug": "sulion",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 571,
     "timeDay": 660,
     "timeWeek": 596,
     "timeMonth": 584,
     "timeYear": 571,
-    "dailyMinutesDown": {
-      "2023-01-18": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "zirkularrak",
@@ -660,19 +655,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/zirkularrak.botslovers.com.ico",
     "slug": "zirkularrak",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 961,
     "timeDay": 4031,
     "timeWeek": 1744,
     "timeMonth": 1172,
     "timeYear": 961,
-    "dailyMinutesDown": {
-      "2023-01-18": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ibericomio",
@@ -680,19 +673,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ibericomio.botslovers.com.ico",
     "slug": "ibericomio",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 780,
     "timeDay": 3997,
     "timeWeek": 1715,
     "timeMonth": 895,
     "timeYear": 780,
-    "dailyMinutesDown": {
-      "2023-01-18": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "arajet",
@@ -700,19 +691,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/arajet.botslovers.com.ico",
     "slug": "arajet",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 746,
     "timeDay": 3999,
     "timeWeek": 1696,
     "timeMonth": 884,
     "timeYear": 746,
-    "dailyMinutesDown": {
-      "2023-01-18": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ticketdigital",
@@ -720,19 +709,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ticketdigital.botslovers.com.ico",
     "slug": "ticketdigital",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 556,
     "timeDay": 617,
     "timeWeek": 586,
     "timeMonth": 576,
     "timeYear": 556,
-    "dailyMinutesDown": {
-      "2023-01-18": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "alfares",
@@ -740,19 +727,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/alfares.botslovers.com.ico",
     "slug": "alfares",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 560,
     "timeDay": 614,
     "timeWeek": 586,
     "timeMonth": 585,
     "timeYear": 560,
-    "dailyMinutesDown": {
-      "2023-01-18": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "payfit",
@@ -760,19 +745,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/payfit.botslovers.com.ico",
     "slug": "payfit",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 760,
     "timeDay": 3984,
     "timeWeek": 1705,
     "timeMonth": 886,
     "timeYear": 760,
-    "dailyMinutesDown": {
-      "2023-01-18": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "heytrade",
@@ -780,18 +763,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/heytrade.botslovers.com.ico",
     "slug": "heytrade",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.62%",
     "time": 785,
     "timeDay": 4015,
     "timeWeek": 1489,
     "timeMonth": 829,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2023-01-18": 9,
       "2023-01-12": 28,
       "2023-01-11": 163,
       "2023-01-10": 17
