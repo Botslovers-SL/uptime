@@ -705,18 +705,20 @@
     "url": "https://ticketdigital.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/ticketdigital.botslovers.com.ico",
     "slug": "ticketdigital",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
-    "timeDay": 540,
+    "timeDay": 548,
     "timeWeek": 574,
     "timeMonth": 576,
     "timeYear": 556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-19": 1
+    }
   },
   {
     "name": "alfares",
