@@ -596,18 +596,20 @@
     "url": "https://facebook-service.botslovers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/facebook-service.botslovers.com.ico",
     "slug": "facebook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 447,
-    "timeDay": 565,
-    "timeWeek": 439,
-    "timeMonth": 457,
+    "timeDay": 494,
+    "timeWeek": 437,
+    "timeMonth": 456,
     "timeYear": 447,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-20": 1
+    }
   },
   {
     "name": "arthur",
