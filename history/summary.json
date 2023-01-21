@@ -363,18 +363,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/siemensmob.botslovers.com.ico",
     "slug": "siemensmob",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "90.36%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.66%",
+    "uptimeDay": "86.25%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.66%",
     "time": 604,
     "timeDay": 653,
     "timeWeek": 602,
     "timeMonth": 609,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2023-01-21": 139
+      "2023-01-21": 198
     }
   },
   {
@@ -472,19 +472,19 @@
     "url": "https://cazucar.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/cazucar.botslovers.com.ico",
     "slug": "cazucar",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "91.11%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.81%",
-    "time": 571,
-    "timeDay": 620,
-    "timeWeek": 598,
-    "timeMonth": 599,
-    "timeYear": 571,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "87.03%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.72%",
+    "time": 570,
+    "timeDay": 595,
+    "timeWeek": 592,
+    "timeMonth": 597,
+    "timeYear": 570,
     "dailyMinutesDown": {
-      "2023-01-21": 128
+      "2023-01-21": 187
     }
   },
   {
@@ -807,18 +807,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/alcampo.botslovers.com.ico",
     "slug": "alcampo",
     "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "91.11%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.44%",
+    "uptimeDay": "87.00%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.44%",
     "time": 562,
     "timeDay": 637,
     "timeWeek": 606,
     "timeMonth": 610,
     "timeYear": 562,
     "dailyMinutesDown": {
-      "2023-01-21": 128,
+      "2023-01-21": 187,
       "2023-01-11": 174,
       "2023-01-10": 17
     }
@@ -981,18 +981,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/clientesprodesa.botslovers.com.ico",
     "slug": "clientesprodesa",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.91%",
     "time": 554,
     "timeDay": 598,
     "timeWeek": 575,
     "timeMonth": 587,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2023-01-21": 0
+      "2023-01-21": 60
     }
   }
 ]
