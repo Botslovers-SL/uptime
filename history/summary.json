@@ -539,19 +539,19 @@
     "url": "https://demolovi.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/demolovi.botslovers.com.ico",
     "slug": "demolovi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 501,
-    "timeWeek": 612,
-    "timeMonth": 608,
-    "timeYear": 580,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 577,
+    "timeDay": 469,
+    "timeWeek": 589,
+    "timeMonth": 602,
+    "timeYear": 577,
     "dailyMinutesDown": {
-      "2023-01-27": 1
+      "2023-01-27": 11
     }
   },
   {
@@ -865,19 +865,19 @@
     "url": "https://maccenter.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/maccenter.botslovers.com.ico",
     "slug": "maccenter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 541,
-    "timeWeek": 603,
-    "timeMonth": 605,
-    "timeYear": 569,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 567,
+    "timeDay": 507,
+    "timeWeek": 585,
+    "timeMonth": 600,
+    "timeYear": 567,
     "dailyMinutesDown": {
-      "2023-01-27": 0
+      "2023-01-27": 11
     }
   },
   {
