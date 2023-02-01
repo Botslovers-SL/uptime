@@ -505,19 +505,19 @@
     "url": "https://vector.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/vector.botslovers.com.ico",
     "slug": "vector",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 525,
-    "timeWeek": 583,
-    "timeMonth": 579,
-    "timeYear": 599,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 596,
+    "timeDay": 498,
+    "timeWeek": 567,
+    "timeMonth": 575,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2023-02-01": 1
+      "2023-02-01": 10
     }
   },
   {
@@ -694,12 +694,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.96%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 746,
     "timeDay": 595,
-    "timeWeek": 630,
+    "timeWeek": 599,
     "timeMonth": 900,
     "timeYear": 746,
     "dailyMinutesDown": {
@@ -719,7 +719,7 @@
     "uptimeYear": "100.00%",
     "time": 713,
     "timeDay": 580,
-    "timeWeek": 617,
+    "timeWeek": 580,
     "timeMonth": 871,
     "timeYear": 713,
     "dailyMinutesDown": {}
@@ -737,7 +737,7 @@
     "uptimeYear": "100.00%",
     "time": 573,
     "timeDay": 632,
-    "timeWeek": 637,
+    "timeWeek": 610,
     "timeMonth": 590,
     "timeYear": 573,
     "dailyMinutesDown": {}
@@ -755,7 +755,7 @@
     "uptimeYear": "100.00%",
     "time": 577,
     "timeDay": 669,
-    "timeWeek": 621,
+    "timeWeek": 590,
     "timeMonth": 596,
     "timeYear": 577,
     "dailyMinutesDown": {}
@@ -773,7 +773,7 @@
     "uptimeYear": "100.00%",
     "time": 722,
     "timeDay": 644,
-    "timeWeek": 607,
+    "timeWeek": 581,
     "timeMonth": 870,
     "timeYear": 722,
     "dailyMinutesDown": {}
@@ -813,7 +813,7 @@
     "uptimeYear": "100.00%",
     "time": 581,
     "timeDay": 583,
-    "timeWeek": 611,
+    "timeWeek": 579,
     "timeMonth": 595,
     "timeYear": 581,
     "dailyMinutesDown": {}
@@ -911,7 +911,7 @@
     "uptimeYear": "98.57%",
     "time": 565,
     "timeDay": 604,
-    "timeWeek": 635,
+    "timeWeek": 605,
     "timeMonth": 604,
     "timeYear": 565,
     "dailyMinutesDown": {
