@@ -24,19 +24,19 @@
     "url": "https://spell.botslovers.com/spell/spells",
     "icon": "https://icons.duckduckgo.com/ip3/spell.botslovers.com.ico",
     "slug": "spell",
-    "status": "down",
-    "uptime": "97.61%",
-    "uptimeDay": "89.86%",
-    "uptimeWeek": "94.59%",
-    "uptimeMonth": "95.63%",
-    "uptimeYear": "97.61%",
-    "time": 958,
-    "timeDay": 1151,
-    "timeWeek": 941,
-    "timeMonth": 975,
-    "timeYear": 958,
+    "status": "up",
+    "uptime": "97.60%",
+    "uptimeDay": "89.40%",
+    "uptimeWeek": "94.53%",
+    "uptimeMonth": "95.62%",
+    "uptimeYear": "97.60%",
+    "time": 957,
+    "timeDay": 1103,
+    "timeWeek": 935,
+    "timeMonth": 973,
+    "timeYear": 957,
     "dailyMinutesDown": {
-      "2023-03-10": 146,
+      "2023-03-10": 153,
       "2023-03-09": 60,
       "2023-03-08": 94,
       "2023-03-07": 42,
@@ -107,7 +107,7 @@
     "slug": "adt",
     "status": "up",
     "uptime": "97.41%",
-    "uptimeDay": "11.33%",
+    "uptimeDay": "11.85%",
     "uptimeWeek": "67.20%",
     "uptimeMonth": "92.45%",
     "uptimeYear": "97.41%",
@@ -475,19 +475,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/miniso.botslovers.com.ico",
     "slug": "miniso",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 582,
     "timeDay": 608,
     "timeWeek": 567,
     "timeMonth": 590,
     "timeYear": 582,
-    "dailyMinutesDown": {
-      "2023-03-10": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "minisocl",
@@ -495,19 +493,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/minisocl.botslovers.com.ico",
     "slug": "minisocl",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 581,
     "timeDay": 622,
     "timeWeek": 578,
     "timeMonth": 592,
     "timeYear": 581,
-    "dailyMinutesDown": {
-      "2023-03-10": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "beds",
@@ -572,19 +568,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vector.botslovers.com.ico",
     "slug": "vector",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 596,
     "timeDay": 670,
     "timeWeek": 579,
     "timeMonth": 591,
     "timeYear": 596,
-    "dailyMinutesDown": {
-      "2023-03-10": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "compas",
@@ -592,19 +586,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/compas.botslovers.com.ico",
     "slug": "compas",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 571,
     "timeDay": 607,
     "timeWeek": 568,
     "timeMonth": 587,
     "timeYear": 571,
-    "dailyMinutesDown": {
-      "2023-03-10": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "demolovi",
@@ -630,19 +622,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/deluxe.botslovers.com.ico",
     "slug": "deluxe",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 581,
     "timeDay": 635,
     "timeWeek": 575,
     "timeMonth": 589,
     "timeYear": 581,
-    "dailyMinutesDown": {
-      "2023-03-10": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ascancelas",
@@ -650,19 +640,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ascancelas.botslovers.com.ico",
     "slug": "ascancelas",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 592,
     "timeDay": 676,
     "timeWeek": 591,
     "timeMonth": 597,
     "timeYear": 592,
-    "dailyMinutesDown": {
-      "2023-03-10": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "notifypikolin",
@@ -689,9 +677,9 @@
     "slug": "facebook",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 455,
     "timeDay": 533,
@@ -699,7 +687,6 @@
     "timeMonth": 463,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2023-03-10": 9,
       "2023-01-20": 34
     }
   },
@@ -839,19 +826,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/payfit.botslovers.com.ico",
     "slug": "payfit",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 674,
     "timeDay": 620,
     "timeWeek": 601,
     "timeMonth": 599,
     "timeYear": 674,
-    "dailyMinutesDown": {
-      "2023-03-10": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "heytrade",
@@ -899,18 +884,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/alcampo.botslovers.com.ico",
     "slug": "alcampo",
     "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.66%",
     "time": 568,
     "timeDay": 618,
     "timeWeek": 576,
     "timeMonth": 591,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2023-03-10": 9,
       "2023-01-24": 32,
       "2023-01-22": 611,
       "2023-01-21": 1001,
@@ -944,19 +928,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/maccenter.botslovers.com.ico",
     "slug": "maccenter",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 586,
     "timeDay": 712,
     "timeWeek": 622,
     "timeMonth": 617,
     "timeYear": 586,
-    "dailyMinutesDown": {
-      "2023-03-10": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "emprenemjunts",
