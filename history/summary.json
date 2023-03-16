@@ -24,17 +24,17 @@
     "slug": "spell",
     "status": "up",
     "uptime": "97.53%",
-    "uptimeDay": "87.48%",
-    "uptimeWeek": "94.19%",
-    "uptimeMonth": "95.08%",
+    "uptimeDay": "88.08%",
+    "uptimeWeek": "94.28%",
+    "uptimeMonth": "95.10%",
     "uptimeYear": "97.53%",
     "time": 995,
-    "timeDay": 2923,
-    "timeWeek": 1318,
+    "timeDay": 3023,
+    "timeWeek": 1332,
     "timeMonth": 1027,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2023-03-15": 181,
+      "2023-03-15": 172,
       "2023-03-14": 105,
       "2023-03-13": 66,
       "2023-03-10": 175,
@@ -73,7 +73,8 @@
       "2023-01-19": 18,
       "2023-01-17": 19,
       "2023-01-12": 32,
-      "2023-01-05": 16
+      "2023-01-05": 16,
+      "2022-12-13": 19
     }
   },
   {
@@ -102,7 +103,7 @@
     "status": "up",
     "uptime": "97.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.50%",
+    "uptimeWeek": "77.05%",
     "uptimeMonth": "92.50%",
     "uptimeYear": "97.57%",
     "time": 737,
@@ -348,7 +349,7 @@
     "slug": "kuestiona",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "59.31%",
+    "uptimeDay": "63.18%",
     "uptimeWeek": "80.80%",
     "uptimeMonth": "95.58%",
     "uptimeYear": "98.66%",
@@ -926,7 +927,7 @@
     "time": 615,
     "timeDay": 441,
     "timeWeek": 590,
-    "timeMonth": 582,
+    "timeMonth": 576,
     "timeYear": 615,
     "dailyMinutesDown": {}
   },
@@ -944,7 +945,7 @@
     "time": 572,
     "timeDay": 407,
     "timeWeek": 608,
-    "timeMonth": 580,
+    "timeMonth": 575,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2023-01-22": 611,
@@ -965,7 +966,7 @@
     "time": 583,
     "timeDay": 470,
     "timeWeek": 614,
-    "timeMonth": 587,
+    "timeMonth": 582,
     "timeYear": 583,
     "dailyMinutesDown": {}
   },
@@ -983,7 +984,7 @@
     "time": 576,
     "timeDay": 412,
     "timeWeek": 635,
-    "timeMonth": 584,
+    "timeMonth": 577,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2023-01-12": 19
@@ -1003,7 +1004,7 @@
     "time": 568,
     "timeDay": 412,
     "timeWeek": 612,
-    "timeMonth": 574,
+    "timeMonth": 568,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2023-01-11": 336
@@ -1023,7 +1024,7 @@
     "time": 594,
     "timeDay": 420,
     "timeWeek": 609,
-    "timeMonth": 594,
+    "timeMonth": 587,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2023-01-10": 17
@@ -1043,7 +1044,7 @@
     "time": 572,
     "timeDay": 462,
     "timeWeek": 600,
-    "timeMonth": 582,
+    "timeMonth": 577,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2023-01-22": 611,
