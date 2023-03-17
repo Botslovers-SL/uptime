@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/spell.botslovers.com.ico",
     "slug": "spell",
     "status": "up",
-    "uptime": "97.54%",
-    "uptimeDay": "91.32%",
-    "uptimeWeek": "93.71%",
-    "uptimeMonth": "94.67%",
-    "uptimeYear": "97.54%",
+    "uptime": "97.53%",
+    "uptimeDay": "92.16%",
+    "uptimeWeek": "93.83%",
+    "uptimeMonth": "94.69%",
+    "uptimeYear": "97.53%",
     "time": 986,
     "timeDay": 811,
-    "timeWeek": 1165,
-    "timeMonth": 995,
+    "timeWeek": 1174,
+    "timeMonth": 983,
     "timeYear": 986,
     "dailyMinutesDown": {
-      "2023-03-17": 125,
+      "2023-03-17": 113,
       "2023-03-16": 167,
       "2023-03-15": 172,
       "2023-03-14": 105,
@@ -66,7 +66,8 @@
       "2023-02-14": 60,
       "2023-02-13": 18,
       "2023-02-08": 965,
-      "2023-02-07": 78
+      "2023-02-07": 78,
+      "2023-02-01": 24
     }
   },
   {
@@ -781,7 +782,7 @@
     "time": 582,
     "timeDay": 668,
     "timeWeek": 577,
-    "timeMonth": 582,
+    "timeMonth": 589,
     "timeYear": 582,
     "dailyMinutesDown": {}
   },
@@ -790,18 +791,20 @@
     "url": "https://payfit.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/payfit.botslovers.com.ico",
     "slug": "payfit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 668,
-    "timeDay": 650,
-    "timeWeek": 539,
-    "timeMonth": 585,
-    "timeYear": 668,
-    "dailyMinutesDown": {}
+    "time": 666,
+    "timeDay": 537,
+    "timeWeek": 522,
+    "timeMonth": 580,
+    "timeYear": 666,
+    "dailyMinutesDown": {
+      "2023-03-17": 1
+    }
   },
   {
     "name": "heytrade",
