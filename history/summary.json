@@ -22,17 +22,17 @@
     "url": "https://spell.botslovers.com/spell/spells",
     "icon": "https://icons.duckduckgo.com/ip3/spell.botslovers.com.ico",
     "slug": "spell",
-    "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "89.13%",
+    "status": "down",
+    "uptime": "97.54%",
+    "uptimeDay": "89.10%",
     "uptimeWeek": "93.83%",
     "uptimeMonth": "94.69%",
-    "uptimeYear": "97.53%",
-    "time": 990,
-    "timeDay": 1231,
-    "timeWeek": 1166,
-    "timeMonth": 997,
-    "timeYear": 990,
+    "uptimeYear": "97.54%",
+    "time": 989,
+    "timeDay": 1201,
+    "timeWeek": 1165,
+    "timeMonth": 995,
+    "timeYear": 989,
     "dailyMinutesDown": {
       "2023-03-17": 113,
       "2023-03-16": 167,
@@ -66,8 +66,7 @@
       "2023-02-14": 60,
       "2023-02-13": 18,
       "2023-02-08": 965,
-      "2023-02-07": 78,
-      "2023-02-01": 24
+      "2023-02-07": 78
     }
   },
   {
