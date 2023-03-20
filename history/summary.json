@@ -24,9 +24,9 @@
     "slug": "spell",
     "status": "up",
     "uptime": "98.23%",
-    "uptimeDay": "95.98%",
-    "uptimeWeek": "92.80%",
-    "uptimeMonth": "94.70%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "92.89%",
+    "uptimeMonth": "94.72%",
     "uptimeYear": "98.23%",
     "time": 969,
     "timeDay": 662,
@@ -34,7 +34,7 @@
     "timeMonth": 958,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2023-03-19": 58,
+      "2023-03-19": 49,
       "2023-03-18": 46,
       "2023-03-17": 113,
       "2023-03-16": 167,
@@ -65,7 +65,8 @@
       "2023-02-17": 18,
       "2023-02-16": 82,
       "2023-02-15": 60,
-      "2023-02-14": 60
+      "2023-02-14": 60,
+      "2023-02-13": 18
     }
   },
   {
@@ -834,18 +835,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/payfit.botslovers.com.ico",
     "slug": "payfit",
     "status": "down",
-    "uptime": "98.10%",
+    "uptime": "98.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.70%",
-    "uptimeMonth": "93.49%",
-    "uptimeYear": "98.10%",
+    "uptimeWeek": "71.35%",
+    "uptimeMonth": "93.41%",
+    "uptimeYear": "98.07%",
     "time": 661,
     "timeDay": 323,
     "timeWeek": 438,
     "timeMonth": 572,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2023-03-19": 1408,
+      "2023-03-20": 3,
+      "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 5
     }
