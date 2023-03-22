@@ -3,138 +3,138 @@ owner: Botslovers-SL # Your GitHub organization or username, where this reposito
 repo: uptime # The name of this repository
 
 sites:
-- name: ringover
-  url: https://ringover.botslovers.com
-- name: mercadonabill
-  url: https://mercadonabill.botslovers.com
-- name: sandboxzapatoferoz
-  url: https://sandboxzapatoferoz.botslovers.com
-- name: pikolinrecommend
-  url: https://pikolinrecommend.botslovers.com
-- name: cashconverters
-  url: https://cashconverters.botslovers.com
-- name: adt
-  url: https://adt.botslovers.com
-- name: espublico
-  url: https://espublico.botslovers.com
-- name: teka
-  url: https://teka.botslovers.com
-- name: devticket
-  url: https://devticket.botslovers.com
-- name: portalev
-  url: https://portalev.botslovers.com
-- name: prodesa
-  url: https://prodesa.botslovers.com
-- name: healthypoke
-  url: https://healthypoke.botslovers.com
-- name: plazaaluche
-  url: https://plazaaluche.botslovers.com
-- name: holea
-  url: https://holea.botslovers.com
-- name: tiendaspikolin
-  url: https://tiendaspikolin.botslovers.com
-- name: bkool
-  url: https://bkool.botslovers.com
-- name: bestway
-  url: https://bestway.botslovers.com
-- name: mercadonainterno
-  url: https://mercadonainterno.botslovers.com
-- name: proveedorespikolin
-  url: https://proveedorespikolin.botslovers.com
-- name: develop
-  url: https://develop.botslovers.com
-- name: porsche
-  url: https://porsche.botslovers.com
-- name: vondom
-  url: https://vondom.botslovers.com
-- name: rosaleda
-  url: https://rosaleda.botslovers.com
-- name: kuestiona
-  url: https://kuestiona.botslovers.com
-- name: fitzgerald
-  url: https://fitzgerald.botslovers.com
-- name: hermeneus
-  url: https://hermeneus.botslovers.com
-- name: fresnos
-  url: https://fresnos.botslovers.com
-- name: siemensmob
-  url: https://siemensmob.botslovers.com
-- name: miniso
-  url: https://miniso.botslovers.com
-- name: minisocl
-  url: https://minisocl.botslovers.com
-- name: ticketdigital
-  url: https://ticketdigital.botslovers.com
-- name: beds
-  url: https://beds.botslovers.com
-- name: yuyocalm
-  url: https://yuyocalm.botslovers.com
-- name: esmadeco
-  url: https://esmadeco.botslovers.com
-- name: vector
-  url: https://vector.botslovers.com
-- name: compas
-  url: https://compas.botslovers.com
-- name: demolovi
-  url: https://demolovi.botslovers.com
-- name: devmercadona
-  url: https://devmercadona.botslovers.com
-- name: deluxe
-  url: https://deluxe.botslovers.com
-- name: parqueastur
-  url: https://parqueastur.botslovers.com
-- name: devmercadonabill
-  url: https://devmercadonabill.botslovers.com
-- name: ascancelas
-  url: https://ascancelas.botslovers.com
-- name: notifypikolin
-  url: https://notifypikolin.botslovers.com
-- name: arthur
-  url: https://arthur.botslovers.com
-- name: sulion
-  url: https://sulion.botslovers.com
-- name: zirkularrak
-  url: https://zirkularrak.botslovers.com
-- name: ibericomio
-  url: https://ibericomio.botslovers.com
-- name: arajet
-  url: https://arajet.botslovers.com
-- name: alfares
-  url: https://alfares.botslovers.com
-- name: payfit
-  url: https://payfit.botslovers.com
-- name: clientesprodesa
-  url: https://clientesprodesa.botslovers.com
-- name: heytrade
-  url: https://heytrade.botslovers.com
-- name: hrsolutions
-  url: https://hrsolutions.botslovers.com
-- name: centrooeste
-  url: https://centrooeste.botslovers.com
-- name: alcampo
-  url: https://alcampo.botslovers.com
-- name: siemensgbs
-  url: https://siemensgbs.botslovers.com
-- name: maccenter
-  url: https://maccenter.botslovers.com
-- name: emprenemjunts
-  url: https://emprenemjunts.botslovers.com
-- name: roca
-  url: https://roca.botslovers.com
-- name: fanmallorca
-  url: https://fanmallorca.botslovers.com
-- name: zapatoferoz
-  url: https://zapatoferoz.botslovers.com
-- name: lasrozas
-  url: https://lasrozas.botslovers.com
-- name: pikolin
-  url: https://pikolin.botslovers.com
-- name: cazucar
-  url: https://cazucar.botslovers.com
-- name: mercadona
-  url: https://mercadona.botslovers.com
-- name: cupra
-  url: https://cupra.botslovers.com
+  - name: adt
+    url: https://adt.botslovers.com
+  - name: alcampo
+    url: https://alcampo.botslovers.com
+  - name: alfares
+    url: https://alfares.botslovers.com
+  - name: arajet
+    url: https://arajet.botslovers.com
+  - name: arthur
+    url: https://arthur.botslovers.com
+  - name: ascancelas
+    url: https://ascancelas.botslovers.com
+  - name: beds
+    url: https://beds.botslovers.com
+  - name: bestway
+    url: https://bestway.botslovers.com
+  - name: bkool
+    url: https://bkool.botslovers.com
+  - name: cashconverters
+    url: https://cashconverters.botslovers.com
+  - name: cazucar
+    url: https://cazucar.botslovers.com
+  - name: centrooeste
+    url: https://centrooeste.botslovers.com
+  - name: clientesprodesa
+    url: https://clientesprodesa.botslovers.com
+  - name: compas
+    url: https://compas.botslovers.com
+  - name: cupra
+    url: https://cupra.botslovers.com
+  - name: deluxe
+    url: https://deluxe.botslovers.com
+  - name: demolovi
+    url: https://demolovi.botslovers.com
+  - name: develop
+    url: https://develop.botslovers.com
+  - name: devmercadona
+    url: https://devmercadona.botslovers.com
+  - name: devmercadonabill
+    url: https://devmercadonabill.botslovers.com
+  - name: devticket
+    url: https://devticket.botslovers.com
+  - name: emprenemjunts
+    url: https://emprenemjunts.botslovers.com
+  - name: esmadeco
+    url: https://esmadeco.botslovers.com
+  - name: espublico
+    url: https://espublico.botslovers.com
+  - name: fanmallorca
+    url: https://fanmallorca.botslovers.com
+  - name: fitzgerald
+    url: https://fitzgerald.botslovers.com
+  - name: fresnos
+    url: https://fresnos.botslovers.com
+  - name: healthypoke
+    url: https://healthypoke.botslovers.com
+  - name: hermeneus
+    url: https://hermeneus.botslovers.com
+  - name: heytrade
+    url: https://heytrade.botslovers.com
+  - name: holea
+    url: https://holea.botslovers.com
+  - name: hrsolutions
+    url: https://hrsolutions.botslovers.com
+  - name: ibericomio
+    url: https://ibericomio.botslovers.com
+  - name: kuestiona
+    url: https://kuestiona.botslovers.com
+  - name: lasrozas
+    url: https://lasrozas.botslovers.com
+  - name: maccenter
+    url: https://maccenter.botslovers.com
+  - name: mercadona
+    url: https://mercadona.botslovers.com
+  - name: mercadonabill
+    url: https://mercadonabill.botslovers.com
+  - name: mercadonainterno
+    url: https://mercadonainterno.botslovers.com
+  - name: miniso
+    url: https://miniso.botslovers.com
+  - name: minisocl
+    url: https://minisocl.botslovers.com
+  - name: notifypikolin
+    url: https://notifypikolin.botslovers.com
+  - name: parqueastur
+    url: https://parqueastur.botslovers.com
+  - name: payfit
+    url: https://payfit.botslovers.com
+  - name: pikolin
+    url: https://pikolin.botslovers.com
+  - name: pikolinrecommend
+    url: https://pikolinrecommend.botslovers.com
+  - name: plazaaluche
+    url: https://plazaaluche.botslovers.com
+  - name: porsche
+    url: https://porsche.botslovers.com
+  - name: portalev
+    url: https://portalev.botslovers.com
+  - name: prodesa
+    url: https://prodesa.botslovers.com
+  - name: proveedorespikolin
+    url: https://proveedorespikolin.botslovers.com
+  - name: ringover
+    url: https://ringover.botslovers.com
+  - name: roca
+    url: https://roca.botslovers.com
+  - name: rosaleda
+    url: https://rosaleda.botslovers.com
+  - name: sandboxzapatoferoz
+    url: https://sandboxzapatoferoz.botslovers.com
+  - name: siemensgbs
+    url: https://siemensgbs.botslovers.com
+  - name: siemensmob
+    url: https://siemensmob.botslovers.com
+  - name: sulion
+    url: https://sulion.botslovers.com
+  - name: teka
+    url: https://teka.botslovers.com
+  - name: ticketdigital
+    url: https://ticketdigital.botslovers.com
+  - name: tiendaspikolin
+    url: https://tiendaspikolin.botslovers.com
+  - name: vector
+    url: https://vector.botslovers.com
+  - name: vondom
+    url: https://vondom.botslovers.com
+  - name: yuyocalm
+    url: https://yuyocalm.botslovers.com
+  - name: zapatoferoz
+    url: https://zapatoferoz.botslovers.com
+  - name: zirkularrak
+    url: https://zirkularrak.botslovers.com
 
 status-website:
   cname: uptime.botslovers.com
