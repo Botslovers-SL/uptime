@@ -135,6 +135,8 @@ sites:
     url: https://zapatoferoz.botslovers.com
   - name: zirkularrak
     url: https://zirkularrak.botslovers.com
+  - name: Spell
+    url: https://spell.botslovers.com/
 
 status-website:
   cname: uptime.botslovers.com
