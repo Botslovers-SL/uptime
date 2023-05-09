@@ -122,7 +122,7 @@ sites:
   - name: zirkularrak
     url: https://zirkularrak.botslovers.com
   - name: Spell
-    url: https://spell.botslovers.com/
+    url: https://spell.botslovers.com/spell/spells
 
 status-website:
   cname: uptime.botslovers.com
