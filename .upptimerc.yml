@@ -41,10 +41,6 @@ sites:
     url: https://develop.botslovers.com
   - name: devmercadona
     url: https://devmercadona.botslovers.com
-  - name: devmercadonabill
-    url: https://devmercadonabill.botslovers.com
-  - name: devticket
-    url: https://devticket.botslovers.com
   - name: emprenemjunts
     url: https://emprenemjunts.botslovers.com
   - name: esmadeco
@@ -77,8 +73,6 @@ sites:
     url: https://maccenter.botslovers.com
   - name: mercadona
     url: https://mercadona.botslovers.com
-  - name: mercadonabill
-    url: https://mercadonabill.botslovers.com
   - name: mercadonainterno
     url: https://mercadonainterno.botslovers.com
   - name: miniso
@@ -113,24 +107,16 @@ sites:
     url: https://rosaleda.botslovers.com
   - name: sandboxzapatoferoz
     url: https://sandboxzapatoferoz.botslovers.com
-  - name: siemensgbs
-    url: https://siemensgbs.botslovers.com
-  - name: siemensmob
-    url: https://siemensmob.botslovers.com
   - name: sulion
     url: https://sulion.botslovers.com
   - name: teka
     url: https://teka.botslovers.com
-  - name: ticketdigital
-    url: https://ticketdigital.botslovers.com
   - name: tiendaspikolin
     url: https://tiendaspikolin.botslovers.com
   - name: vector
     url: https://vector.botslovers.com
   - name: vondom
     url: https://vondom.botslovers.com
-  - name: yuyocalm
-    url: https://yuyocalm.botslovers.com
   - name: zapatoferoz
     url: https://zapatoferoz.botslovers.com
   - name: zirkularrak
