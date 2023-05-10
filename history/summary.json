@@ -290,18 +290,20 @@
     "url": "https://cupra.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/cupra.botslovers.com.ico",
     "slug": "cupra",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 670,
-    "timeWeek": 705,
-    "timeMonth": 632,
-    "timeYear": 604,
-    "dailyMinutesDown": {}
+    "time": 602,
+    "timeDay": 629,
+    "timeWeek": 684,
+    "timeMonth": 627,
+    "timeYear": 602,
+    "dailyMinutesDown": {
+      "2023-05-10": 1
+    }
   },
   {
     "name": "deluxe",
@@ -425,18 +427,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/espublico.botslovers.com.ico",
     "slug": "espublico",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 755,
     "timeDay": 512,
     "timeWeek": 621,
     "timeMonth": 869,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2023-05-10": 1
+      "2023-05-10": 18
     }
   },
   {
@@ -605,18 +607,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ibericomio.botslovers.com.ico",
     "slug": "ibericomio",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.92%",
     "time": 660,
     "timeDay": 507,
     "timeWeek": 620,
     "timeMonth": 590,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2023-05-10": 1,
+      "2023-05-10": 18,
       "2023-03-19": 149,
       "2023-01-25": 15
     }
@@ -987,18 +989,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/roca.botslovers.com.ico",
     "slug": "roca",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 590,
     "timeDay": 526,
     "timeWeek": 627,
     "timeMonth": 604,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2023-05-10": 1
+      "2023-05-10": 18
     }
   },
   {
