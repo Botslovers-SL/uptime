@@ -31,8 +31,6 @@ sites:
     url: https://clientesprodesa.botslovers.com
   - name: compas
     url: https://compas.botslovers.com
-  - name: cupra
-    url: https://cupra.botslovers.com
   - name: deluxe
     url: https://deluxe.botslovers.com
   - name: demolovi
