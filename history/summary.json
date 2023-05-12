@@ -56,18 +56,16 @@
     "slug": "alfares",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 590,
     "timeDay": 488,
     "timeWeek": 607,
     "timeMonth": 606,
     "timeYear": 590,
-    "dailyMinutesDown": {
-      "2023-05-12": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "arajet",
@@ -76,9 +74,9 @@
     "slug": "arajet",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 696,
     "timeDay": 3835,
@@ -86,7 +84,6 @@
     "timeMonth": 867,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2023-05-12": 9,
       "2023-03-19": 67
     }
   },
@@ -97,9 +94,9 @@
     "slug": "arthur",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 583,
     "timeDay": 453,
@@ -107,7 +104,6 @@
     "timeMonth": 589,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2023-05-12": 9,
       "2022-12-12": 108
     }
   },
@@ -118,18 +114,16 @@
     "slug": "ascancelas",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 586,
     "timeDay": 454,
     "timeWeek": 613,
     "timeMonth": 600,
     "timeYear": 586,
-    "dailyMinutesDown": {
-      "2023-05-12": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "beds",
@@ -156,9 +150,9 @@
     "slug": "bestway",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 673,
     "timeDay": 526,
@@ -166,7 +160,6 @@
     "timeMonth": 618,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2023-05-12": 9,
       "2023-01-12": 19
     }
   },
@@ -177,9 +170,9 @@
     "slug": "bkool",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 638,
     "timeDay": 460,
@@ -187,7 +180,6 @@
     "timeMonth": 601,
     "timeYear": 638,
     "dailyMinutesDown": {
-      "2023-05-12": 9,
       "2023-03-19": 63
     }
   },
@@ -217,18 +209,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cazucar.botslovers.com.ico",
     "slug": "cazucar",
     "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.26%",
+    "uptime": "99.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.27%",
     "time": 595,
     "timeDay": 451,
     "timeWeek": 583,
     "timeMonth": 594,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2023-05-12": 9,
       "2023-04-19": 17,
       "2023-03-19": 122,
       "2023-01-22": 611,
@@ -241,19 +232,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/centrooeste.botslovers.com.ico",
     "slug": "centrooeste",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 604,
     "timeDay": 453,
     "timeWeek": 583,
     "timeMonth": 605,
     "timeYear": 604,
-    "dailyMinutesDown": {
-      "2023-05-12": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "clientesprodesa",
@@ -261,18 +250,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/clientesprodesa.botslovers.com.ico",
     "slug": "clientesprodesa",
     "status": "up",
-    "uptime": "99.29%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.29%",
+    "uptime": "99.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.30%",
     "time": 584,
     "timeDay": 465,
     "timeWeek": 598,
     "timeMonth": 609,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2023-05-12": 9,
       "2023-03-19": 114,
       "2023-01-22": 611,
       "2023-01-21": 873
@@ -480,18 +468,19 @@
     "url": "https://fresnos.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/fresnos.botslovers.com.ico",
     "slug": "fresnos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 671,
-    "timeDay": 578,
-    "timeWeek": 603,
-    "timeMonth": 597,
-    "timeYear": 671,
+    "time": 669,
+    "timeDay": 445,
+    "timeWeek": 579,
+    "timeMonth": 588,
+    "timeYear": 669,
     "dailyMinutesDown": {
+      "2023-05-12": 1,
       "2023-03-19": 17
     }
   },
@@ -1176,18 +1165,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/spell.botslovers.com.ico",
     "slug": "spell",
     "status": "up",
-    "uptime": "34.20%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "34.20%",
+    "uptime": "35.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "35.11%",
     "time": 982,
     "timeDay": 1818,
     "timeWeek": 1158,
     "timeMonth": 1158,
     "timeYear": 982,
     "dailyMinutesDown": {
-      "2023-05-12": 10,
       "2023-03-22": 70,
       "2023-03-21": 73,
       "2023-03-20": 18,
@@ -1220,7 +1208,7 @@
       "2023-02-19": 24,
       "2023-02-18": 84,
       "2023-02-17": 18,
-      "2023-02-16": 28
+      "2023-02-16": 45
     }
   }
 ]
