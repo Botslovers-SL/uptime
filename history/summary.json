@@ -56,7 +56,7 @@
     "status": "up",
     "uptime": "95.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "41.02%",
+    "uptimeWeek": "41.38%",
     "uptimeMonth": "73.56%",
     "uptimeYear": "95.50%",
     "time": 581,
@@ -789,19 +789,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/parqueastur.botslovers.com.ico",
     "slug": "parqueastur",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 566,
     "timeDay": 500,
     "timeWeek": 556,
     "timeMonth": 558,
     "timeYear": 566,
-    "dailyMinutesDown": {
-      "2023-06-02": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "payfit",
@@ -1184,18 +1182,19 @@
     "url": "https://spell.botslovers.com/spell/spells",
     "icon": "https://icons.duckduckgo.com/ip3/spell.botslovers.com.ico",
     "slug": "spell",
-    "status": "up",
-    "uptime": "92.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "92.25%",
+    "status": "down",
+    "uptime": "92.50%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "92.50%",
     "time": 1070,
-    "timeDay": 303,
-    "timeWeek": 2606,
-    "timeMonth": 1983,
+    "timeDay": 444,
+    "timeWeek": 2614,
+    "timeMonth": 1970,
     "timeYear": 1070,
     "dailyMinutesDown": {
+      "2023-06-02": 1,
       "2023-05-31": 20,
       "2023-05-29": 19,
       "2023-05-19": 33,
@@ -1228,8 +1227,7 @@
       "2023-02-22": 184,
       "2023-02-21": 125,
       "2023-02-20": 123,
-      "2023-02-19": 24,
-      "2023-02-18": 84
+      "2023-02-19": 24
     }
   }
 ]
