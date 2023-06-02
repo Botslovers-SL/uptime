@@ -56,7 +56,7 @@
     "status": "up",
     "uptime": "95.50%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "40.91%",
+    "uptimeWeek": "41.02%",
     "uptimeMonth": "73.56%",
     "uptimeYear": "95.50%",
     "time": 581,
@@ -788,19 +788,19 @@
     "url": "https://parqueastur.botslovers.com",
     "icon": "https://icons.duckduckgo.com/ip3/parqueastur.botslovers.com.ico",
     "slug": "parqueastur",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 566,
-    "timeDay": 454,
-    "timeWeek": 552,
-    "timeMonth": 557,
+    "timeDay": 500,
+    "timeWeek": 556,
+    "timeMonth": 558,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2023-06-02": 1
+      "2023-06-02": 11
     }
   },
   {
