@@ -63,16 +63,12 @@ sites:
     url: https://hrsolutions.botslovers.com
   - name: ibericomio
     url: https://ibericomio.botslovers.com
-  - name: kuestiona
-    url: https://kuestiona.botslovers.com
   - name: lasrozas
     url: https://lasrozas.botslovers.com
   - name: maccenter
     url: https://maccenter.botslovers.com
   - name: mercadona
     url: https://mercadona.botslovers.com
-  - name: mercadonainterno
-    url: https://mercadonainterno.botslovers.com
   - name: miniso
     url: https://miniso.botslovers.com
   - name: minisocl
@@ -91,8 +87,6 @@ sites:
     url: https://plazaaluche.botslovers.com
   - name: porsche
     url: https://porsche.botslovers.com
-  - name: portalev
-    url: https://portalev.botslovers.com
   - name: prodesa
     url: https://prodesa.botslovers.com
   - name: proveedorespikolin
