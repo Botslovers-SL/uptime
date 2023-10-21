@@ -430,7 +430,8 @@
     "timeMonth": 0,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2023-10-20": 1420,
+      "2023-10-21": 3,
+      "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
@@ -1662,18 +1663,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/prodesa.botslovers.com.ico",
     "slug": "prodesa",
     "status": "down",
-    "uptime": "77.78%",
+    "uptime": "77.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.78%",
+    "uptimeYear": "77.77%",
     "time": 596,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2023-10-20": 1421,
+      "2023-10-21": 3,
+      "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
@@ -1853,7 +1855,8 @@
     "timeMonth": 0,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2023-10-20": 1421,
+      "2023-10-21": 4,
+      "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
@@ -2071,9 +2074,9 @@
     "slug": "teka",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 585,
     "timeDay": 1855,
@@ -2081,7 +2084,6 @@
     "timeMonth": 725,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2023-10-20": 9,
       "2023-10-14": 22
     }
   },
@@ -2137,9 +2139,9 @@
     "slug": "zapatoferoz",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 568,
     "timeDay": 544,
@@ -2147,7 +2149,6 @@
     "timeMonth": 531,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2023-10-20": 9,
       "2023-03-19": 19,
       "2023-01-11": 336
     }
@@ -2198,18 +2199,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/spell.botslovers.com.ico",
     "slug": "spell",
     "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "98.90%",
+    "uptime": "98.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "98.89%",
     "time": 1023,
     "timeDay": 447,
     "timeWeek": 428,
     "timeMonth": 611,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2023-10-20": 9,
       "2023-07-31": 57,
       "2023-06-06": 19,
       "2023-06-05": 20,
@@ -2244,7 +2244,7 @@
       "2023-02-23": 98,
       "2023-02-22": 184,
       "2023-02-21": 125,
-      "2023-02-20": 81
+      "2023-02-20": 99
     }
   }
 ]
