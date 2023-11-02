@@ -27,8 +27,6 @@ sites:
     url: https://cazucar.botslovers.com
   - name: centrooeste
     url: https://centrooeste.botslovers.com
-  - name: clientesprodesa
-    url: https://clientesprodesa.botslovers.com
   - name: compas
     url: https://compas.botslovers.com
   - name: deluxe
@@ -87,8 +85,6 @@ sites:
     url: https://plazaaluche.botslovers.com
   - name: porsche
     url: https://porsche.botslovers.com
-  - name: prodesa
-    url: https://prodesa.botslovers.com
   - name: proveedorespikolin
     url: https://proveedorespikolin.botslovers.com
   - name: ringover
@@ -97,8 +93,6 @@ sites:
     url: https://roca.botslovers.com
   - name: rosaleda
     url: https://rosaleda.botslovers.com
-  - name: sandboxzapatoferoz
-    url: https://sandboxzapatoferoz.botslovers.com
   - name: sulion
     url: https://sulion.botslovers.com
   - name: teka
