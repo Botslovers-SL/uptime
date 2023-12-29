@@ -17,8 +17,6 @@ sites:
     url: https://ascancelas.botslovers.com
   - name: beds
     url: https://beds.botslovers.com
-  - name: bestway
-    url: https://bestway.botslovers.com
   - name: bkool
     url: https://bkool.botslovers.com
   - name: cashconverters
@@ -75,8 +73,6 @@ sites:
     url: https://notifypikolin.botslovers.com
   - name: parqueastur
     url: https://parqueastur.botslovers.com
-  - name: payfit
-    url: https://payfit.botslovers.com
   - name: pikolin
     url: https://pikolin.botslovers.com
   - name: pikolinrecommend
@@ -87,10 +83,6 @@ sites:
     url: https://porsche.botslovers.com
   - name: proveedorespikolin
     url: https://proveedorespikolin.botslovers.com
-  - name: ringover
-    url: https://ringover.botslovers.com
-  - name: roca
-    url: https://roca.botslovers.com
   - name: rosaleda
     url: https://rosaleda.botslovers.com
   - name: sulion
@@ -99,8 +91,6 @@ sites:
     url: https://teka.botslovers.com
   - name: vector
     url: https://vector.botslovers.com
-  - name: vondom
-    url: https://vondom.botslovers.com
   - name: zapatoferoz
     url: https://zapatoferoz.botslovers.com
   - name: zirkularrak
