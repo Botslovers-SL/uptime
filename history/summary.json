@@ -249,7 +249,7 @@
     "timeMonth": 570,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2024-01-07": 1199,
+      "2024-01-07": 1210,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
@@ -392,7 +392,7 @@
     "timeMonth": 570,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2024-01-07": 1199,
+      "2024-01-07": 1210,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
@@ -586,7 +586,7 @@
     "timeMonth": 579,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2024-01-07": 1199,
+      "2024-01-07": 1210,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
@@ -892,14 +892,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.81%",
+    "uptimeYear": "81.80%",
     "time": 615,
     "timeDay": 568,
     "timeWeek": 633,
     "timeMonth": 569,
     "timeYear": 619,
     "dailyMinutesDown": {
-      "2024-01-07": 1200,
+      "2024-01-07": 1211,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
@@ -1189,7 +1189,7 @@
     "timeMonth": 0,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-01-07": 1200,
+      "2024-01-07": 1211,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
@@ -2160,19 +2160,19 @@
     "url": "https://spell.botslovers.com/spell/spells",
     "icon": "https://icons.duckduckgo.com/ip3/spell.botslovers.com.ico",
     "slug": "spell",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "91.49%",
-    "uptimeWeek": "98.78%",
+    "status": "down",
+    "uptime": "98.46%",
+    "uptimeDay": "91.35%",
+    "uptimeWeek": "98.76%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "98.45%",
+    "uptimeYear": "98.46%",
     "time": 880,
-    "timeDay": 971,
-    "timeWeek": 843,
-    "timeMonth": 846,
+    "timeDay": 963,
+    "timeWeek": 839,
+    "timeMonth": 843,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2024-01-07": 96,
+      "2024-01-07": 98,
       "2024-01-06": 27,
       "2023-11-16": 38,
       "2023-11-15": 144,
@@ -2202,7 +2202,7 @@
       "2023-03-19": 49,
       "2023-03-18": 46,
       "2023-03-17": 113,
-      "2023-03-16": 114
+      "2023-03-16": 96
     }
   }
 ]
