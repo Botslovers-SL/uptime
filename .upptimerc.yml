@@ -97,8 +97,6 @@ sites:
     url: https://zirkularrak.botslovers.com
   - name: siemensmails
     url: https://siemensmails.botslovers.com/
-  - name: Spell
-    url: https://spell.botslovers.com/spell/spells
 
 status-website:
   cname: uptime.botslovers.com
