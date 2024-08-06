@@ -549,7 +549,7 @@
     "timeMonth": 359,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2024-08-06": 485,
+      "2024-08-06": 498,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -770,7 +770,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/deluxe.botslovers.com.ico",
     "slug": "deluxe",
     "status": "down",
-    "uptime": "89.50%",
+    "uptime": "89.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -781,7 +781,7 @@
     "timeMonth": 0,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2024-08-06": 486,
+      "2024-08-06": 498,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -1227,7 +1227,7 @@
     "timeMonth": 0,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2024-08-06": 486,
+      "2024-08-06": 499,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -1360,7 +1360,7 @@
     "timeMonth": 0,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2024-08-06": 486,
+      "2024-08-06": 499,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -1660,7 +1660,7 @@
     "timeMonth": 0,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2024-08-06": 486,
+      "2024-08-06": 499,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -1905,7 +1905,7 @@
     "timeMonth": 406,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2024-08-06": 486,
+      "2024-08-06": 499,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -1982,7 +1982,7 @@
     "timeMonth": 394,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2024-08-06": 486,
+      "2024-08-06": 499,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -2036,7 +2036,7 @@
     "timeMonth": 393,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2024-08-06": 486,
+      "2024-08-06": 499,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -2234,7 +2234,7 @@
     "timeMonth": 0,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2024-08-06": 487,
+      "2024-08-06": 500,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -2444,7 +2444,7 @@
     "timeMonth": 0,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2024-08-06": 487,
+      "2024-08-06": 500,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
       "2024-08-03": 1440,
@@ -2630,19 +2630,19 @@
     "url": "https://siemensmails.botslovers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/siemensmails.botslovers.com.ico",
     "slug": "siemensmails",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 669,
-    "timeWeek": 662,
-    "timeMonth": 669,
-    "timeYear": 682,
+    "time": 683,
+    "timeDay": 740,
+    "timeWeek": 687,
+    "timeMonth": 676,
+    "timeYear": 683,
     "dailyMinutesDown": {
-      "2024-08-06": 2
+      "2024-08-06": 13
     }
   }
 ]
