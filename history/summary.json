@@ -534,7 +534,7 @@
     "uptime": "57.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.80%",
+    "uptimeMonth": "90.82%",
     "uptimeYear": "35.87%",
     "time": 540,
     "timeDay": 469,
@@ -802,7 +802,7 @@
     "timeMonth": 0,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2024-10-01": 814,
+      "2024-10-01": 824,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -1303,7 +1303,7 @@
     "timeMonth": 0,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2024-10-01": 814,
+      "2024-10-01": 825,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -1492,7 +1492,7 @@
     "timeMonth": 0,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2024-10-01": 814,
+      "2024-10-01": 825,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -1840,14 +1840,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "36.39%",
+    "uptimeYear": "36.38%",
     "time": 541,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2024-10-01": 815,
+      "2024-10-01": 825,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -2148,7 +2148,7 @@
     "timeMonth": 0,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-10-01": 815,
+      "2024-10-01": 825,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -2281,7 +2281,7 @@
     "timeMonth": 0,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-10-01": 815,
+      "2024-10-01": 825,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -2391,7 +2391,7 @@
     "timeMonth": 0,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2024-10-01": 815,
+      "2024-10-01": 825,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -2644,7 +2644,7 @@
     "timeMonth": 0,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2024-10-01": 815,
+      "2024-10-01": 826,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -2908,7 +2908,7 @@
     "timeMonth": 0,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2024-10-01": 815,
+      "2024-10-01": 826,
       "2024-09-30": 1440,
       "2024-09-29": 1440,
       "2024-09-28": 1440,
@@ -3150,19 +3150,19 @@
     "url": "https://siemensmails.botslovers.com/",
     "icon": "https://icons.duckduckgo.com/ip3/siemensmails.botslovers.com.ico",
     "slug": "siemensmails",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 684,
-    "timeDay": 556,
-    "timeWeek": 649,
-    "timeMonth": 669,
+    "timeDay": 668,
+    "timeWeek": 671,
+    "timeMonth": 675,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2024-10-01": 2
+      "2024-10-01": 10
     }
   }
 ]
