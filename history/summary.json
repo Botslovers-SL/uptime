@@ -188,7 +188,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.42%",
+    "uptimeYear": "77.43%",
     "time": 542,
     "timeDay": 692,
     "timeWeek": 649,
@@ -279,8 +279,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -293,7 +292,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.11%",
+    "uptimeYear": "80.12%",
     "time": 549,
     "timeDay": 699,
     "timeWeek": 630,
@@ -372,8 +371,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -404,11 +402,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/compas.botslovers.com.ico",
     "slug": "compas",
     "status": "up",
-    "uptime": "61.22%",
+    "uptime": "61.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.16%",
+    "uptimeYear": "46.17%",
     "time": 531,
     "timeDay": 684,
     "timeWeek": 645,
@@ -612,8 +610,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -633,7 +630,8 @@
     "timeMonth": 0,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2024-12-09": 1403,
+      "2024-12-10": 3,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -936,7 +934,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "75.89%",
+    "uptimeYear": "75.90%",
     "time": 542,
     "timeDay": 671,
     "timeWeek": 599,
@@ -1030,8 +1028,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -1158,7 +1155,8 @@
     "timeMonth": 0,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2024-12-09": 1403,
+      "2024-12-10": 4,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -1412,7 +1410,8 @@
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2024-12-09": 1403,
+      "2024-12-10": 4,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -1756,8 +1755,7 @@
       "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
-      "2023-12-12": 1440,
-      "2023-12-11": 1440
+      "2023-12-12": 1440
     }
   },
   {
@@ -1810,18 +1808,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hrsolutions.botslovers.com.ico",
     "slug": "hrsolutions",
     "status": "down",
-    "uptime": "58.97%",
+    "uptime": "58.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "17.38%",
+    "uptimeYear": "17.37%",
     "time": 537,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-12-09": 1403,
+      "2024-12-10": 4,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -2178,14 +2177,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.35%",
+    "uptimeYear": "56.34%",
     "time": 534,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-12-09": 1403,
+      "2024-12-10": 4,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -2376,14 +2376,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.79%",
+    "uptimeYear": "56.78%",
     "time": 547,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2024-12-09": 1403,
+      "2024-12-10": 4,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -2554,14 +2555,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.79%",
+    "uptimeYear": "56.78%",
     "time": 536,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2024-12-09": 1403,
+      "2024-12-10": 4,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -2850,7 +2852,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/proveedorespikolin.botslovers.com.ico",
     "slug": "proveedorespikolin",
     "status": "down",
-    "uptime": "74.20%",
+    "uptime": "74.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2861,7 +2863,8 @@
     "timeMonth": 0,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-12-09": 1404,
+      "2024-12-10": 4,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -3174,7 +3177,8 @@
     "timeMonth": 0,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2024-12-09": 1404,
+      "2024-12-10": 4,
+      "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -3484,18 +3488,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/siemensmails.botslovers.com.ico",
     "slug": "siemensmails",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.94%",
     "time": 684,
     "timeDay": 646,
     "timeWeek": 655,
     "timeMonth": 651,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2024-12-09": 2,
+      "2024-12-10": 4,
+      "2024-12-09": 38,
       "2024-12-06": 20,
       "2024-12-04": 18,
       "2024-12-03": 15,
