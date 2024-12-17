@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: adt
     url: https://adt.botslovers.com
+  - name: alatula
+    url: https://alatula.botslovers.com
   - name: alcampo
     url: https://alcampo.botslovers.com
   - name: alfares
@@ -15,26 +17,48 @@ sites:
     url: https://arthur.botslovers.com
   - name: ascancelas
     url: https://ascancelas.botslovers.com
+  - name: autofin
+    url: https://autofin.botslovers.com
   - name: beds
     url: https://beds.botslovers.com
+  - name: beedigital
+    url: https://beedigital.botslovers.com
   - name: bkool
     url: https://bkool.botslovers.com
   - name: cashconverters
     url: https://cashconverters.botslovers.com
+  - name: catalogocanarias
+    url: https://catalogocanarias.botslovers.com
   - name: cazucar
     url: https://cazucar.botslovers.com
+  - name: cclasrosas
+    url: https://cclasrosas.botslovers.com
+  - name: cda-cvirtual
+    url: https://cda-cvirtual.botslovers.com
+  - name: cda-mktcitas
+    url: https://cda-mktcitas.botslovers.com
   - name: centrooeste
     url: https://centrooeste.botslovers.com
   - name: compas
     url: https://compas.botslovers.com
-  - name: deluxe
-    url: https://deluxe.botslovers.com
-  - name: demolovi
-    url: https://demolovi.botslovers.com
-  - name: develop
-    url: https://develop.botslovers.com
-  - name: devmercadona
-    url: https://devmercadona.botslovers.com
+  - name: csbiologos
+    url: https://csbiologos.botslovers.com
+  - name: divana
+    url: https://divana.botslovers.com
+  - name: demo
+    url: https://demo.botslovers.com
+  - name: demo1
+    url: https://demo1.botslovers.com
+  - name: demo2
+    url: https://demo2.botslovers.com
+  - name: demo3
+    url: https://demo3.botslovers.com
+  - name: devizzi
+    url: https://devizzi.botslovers.com
+  - name: eivissa
+    url: https://eivissa.botslovers.com
+  - name: elferial
+    url: https://elferial.botslovers.com
   - name: emprenemjunts
     url: https://emprenemjunts.botslovers.com
   - name: esmadeco
@@ -47,28 +71,22 @@ sites:
     url: https://fitzgerald.botslovers.com
   - name: fresnos
     url: https://fresnos.botslovers.com
-  - name: healthypoke
-    url: https://healthypoke.botslovers.com
-  - name: hermeneus
-    url: https://hermeneus.botslovers.com
+  - name: gironafc
+    url: https://gironafc.botslovers.com
   - name: heytrade
     url: https://heytrade.botslovers.com
   - name: holea
     url: https://holea.botslovers.com
-  - name: hrsolutions
-    url: https://hrsolutions.botslovers.com
   - name: ibericomio
     url: https://ibericomio.botslovers.com
+  - name: izzi
+    url: https://izzi.botslovers.com
   - name: lasrozas
     url: https://lasrozas.botslovers.com
-  - name: maccenter
-    url: https://maccenter.botslovers.com
+  - name: luis-simoes
+    url: https://luis-simoes.botslovers.com
   - name: mercadona
     url: https://mercadona.botslovers.com
-  - name: miniso
-    url: https://miniso.botslovers.com
-  - name: minisocl
-    url: https://minisocl.botslovers.com
   - name: notifypikolin
     url: https://notifypikolin.botslovers.com
   - name: parqueastur
@@ -81,22 +99,48 @@ sites:
     url: https://plazaaluche.botslovers.com
   - name: porsche
     url: https://porsche.botslovers.com
-  - name: proveedorespikolin
-    url: https://proveedorespikolin.botslovers.com
+  - name: provalliance
+    url: https://provalliance.botslovers.com
   - name: rosaleda
     url: https://rosaleda.botslovers.com
   - name: sulion
     url: https://sulion.botslovers.com
   - name: teka
     url: https://teka.botslovers.com
+  - name: thepower
+    url: https://thepower.botslovers.com
+  - name: tributoszaragoza
+    url: https://tributoszaragoza.botslovers.com
   - name: vector
     url: https://vector.botslovers.com
   - name: zapatoferoz
     url: https://zapatoferoz.botslovers.com
-  - name: zirkularrak
-    url: https://zirkularrak.botslovers.com
-  - name: siemensmails
-    url: https://siemensmails.botslovers.com/
+  - name: ciong
+    url: https://ciong.botslovers.com
+  - name: fundaciontelefonica
+    url: https://fundaciontelefonica.botslovers.com
+  - name: tiendaspikolin
+    url: https://tiendaspikolin.botslovers.com
+  - name: demolovi
+    url: https://demolovi.botslovers.com
+  - name: devalcampo
+    url: https://devalcampo.botslovers.com
+  - name: devarajet
+    url: https://devarajet.botslovers.com
+  - name: devbeedigital
+    url: https://devbeedigital.botslovers.com
+  - name: develop
+    url: https://develop.botslovers.com
+  - name: devluissimoes
+    url: https://devluissimoes.botslovers.com
+  - name: devmercadona
+    url: https://devmercadona.botslovers.com
+  - name: devpikolin
+    url: https://devpikolin.botslovers.com
+  - name: devthepower
+    url: https://devthepower.botslovers.com
+  - name: devbeds
+    url: https://devbeds.botslovers.com
 
 status-website:
   cname: uptime.botslovers.com
